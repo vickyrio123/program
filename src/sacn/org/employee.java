@@ -18,6 +18,15 @@ public class employee {
 		
 	
 	}
+	
+	
+	
+	
+	
+	private void cone() {
+	System.out.println("dell");
+
+	}
 	public static void main(String[] args) {
 		employee e = new employee();
 		e.add();
