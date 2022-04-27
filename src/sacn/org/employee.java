@@ -18,6 +18,11 @@ public class employee {
 		
 	
 	}
+
+	private void cone() {
+	System.out.println("dell");
+	}
+
 	private void sub() {
 		System.out.println("done");
 
