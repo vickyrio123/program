@@ -18,6 +18,10 @@ public class employee {
 		
 	
 	}
+	private void sub() {
+		System.out.println("done");
+
+	}
 	public static void main(String[] args) {
 		employee e = new employee();
 		e.add();
